@@ -3,32 +3,36 @@
 e-imza veya mali mühür kartınızla, **tarayıcıya ve GİB E-İmza Aracı'na gerek kalmadan**
 e-Fatura iptal/itiraz işlemlerinizi ve e-Fatura başvurunuzu yapmanızı sağlayan Windows uygulaması.
 
-## Kurulum
+## İndir ve kur
 
-[**En son sürümü indir**](../../releases/latest) → `GibIptalItiraz-Setup-0.2.0.exe` dosyasını çalıştırın.
+### 👉 [**Programı indir**](https://github.com/mukerremmert/gib-guncelleme/releases/latest)
 
-Uygulama yeni sürümleri kendisi denetler ve günceller.
+Açılan sayfada **Assets** bölümündeki `GibIptalItiraz-Setup-....exe` dosyasına tıklayın,
+indirdikten sonra çalıştırın. Kurulum tek adımdır, soru sormaz.
 
-> Windows SmartScreen uyarısı çıkarsa: **Ek bilgi → Yine de çalıştır**.
-> Uygulama henüz kod imzalama sertifikasıyla imzalanmamıştır.
+Uygulama yeni sürümleri kendisi denetler ve arka planda günceller — bir daha indirmeniz gerekmez.
+
+> **Windows uyarı verirse:** "Windows bilgisayarınızı korudu" ekranında
+> **Ek bilgi → Yine de çalıştır** deyin. Uygulama henüz kod imzalama sertifikasıyla
+> imzalanmadığı için Windows tanımadığı programlara bu uyarıyı gösterir.
 
 ## Gereksinimler
 
-- Windows 10/11 (64 bit)
+- Windows 10 / 11 (64 bit)
 - e-imza (NES) veya mali mühür kartı ve kart sürücüsü (AKİS vb.)
 - İnternet bağlantısı
 
 ## Neler yapabilirsiniz
 
-- Gelen/gönderilen iptal ve itiraz taleplerini görüntüleme
+- Gelen ve gönderilen iptal / itiraz taleplerini görüntüleme
 - Talep oluşturma, onaylama, reddetme, silme
-- e-Fatura başvurusu (form imzalanır, gönderilmeden önce önizlenir)
+- e-Fatura başvurusu — form imzalanır, **gönderilmeden önce** size gösterilir
 - İşlem geçmişi ve Excel'e aktarma
 
 ## Destek
 
 **Mükerrem Mert** — MERT DİJİTAL DÖNÜŞÜM LİMİTED ŞİRKETİ
-WhatsApp / Telefon: 0543 766 6676
+WhatsApp / Telefon: **0543 766 6676**
 
 ---
 
