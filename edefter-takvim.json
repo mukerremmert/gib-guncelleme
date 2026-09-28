@@ -1,0 +1,11 @@
+{
+  "surum": 1,
+  "guncelleme": "2026-09-28",
+  "uzatmalar": [
+    { "eski": "2026-05-11", "yeni": "2026-06-10", "dayanak": "VUK 198 Sayılı Sirküler" },
+    { "eski": "2026-05-14", "yeni": "2026-06-15", "dayanak": "VUK 198 Sayılı Sirküler" },
+    { "eski": "2026-06-10", "yeni": "2026-06-30", "dayanak": "VUK 202 Sayılı Sirküler" },
+    { "eski": "2026-06-15", "yeni": "2026-06-30", "dayanak": "VUK 202 Sayılı Sirküler" }
+  ],
+  "tatiller": []
+}
